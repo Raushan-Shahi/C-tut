@@ -1,14 +1,15 @@
-/*learnt about built in data types (int)  */ 
+/*learnt about built in data types (int)  */
 
 #include <iostream>
 
 using namespace std;
-int main() {
-   int a = 14;
-   int b = 15;
-   cout << 
-   "this is 2nd program . here the value of a is "<< a
-   << " the value of b is " <<b;
-
+int main()
+{
+    // int a,b,d;
+    // cin>>a>>b; 
+    int d;
+    d = cin.get();   
+    // cout << a + b << endl;
+    cout<<d<<endl;
     return 0;
 }

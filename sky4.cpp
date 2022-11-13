@@ -8,19 +8,19 @@ int glo = 8 ;
 
 void sum() {
 int f = 14;
-cout << f  ;
-cout << glo ;
+cout << f <<endl  ;
+cout << glo<<endl ;
 
 }
 
 int main() {
-    int a = 7 , b = 89 , glo = 0 ;
-cout << "i am in class " << a <<  "\n and i got total marks "<<b ;
+    int a = 7 , b = 89;
+// cout << "i am in class " << a <<  "\n and i got total marks "<<b ;
 sum() ;
-cout <<  glo ;
- cout <<a ;
-cout << glo ;
+cout <<  glo <<endl;
+ cout <<a<<endl ;
+cout << glo<<endl ;
 glo = 67 ;
-cout << glo ; 
+cout << glo<<endl ; 
     return 0;
 }
