@@ -15,5 +15,5 @@ cout << "the value of d is "<<  setw(4)<< d <<endl;
 cout << "the value of e is "<<  setw(4)<<e << endl;
 cout << "the value of a is      "<<  setw(4)<< a<< endl;
 
-    return 0;
+return 0;
 }
