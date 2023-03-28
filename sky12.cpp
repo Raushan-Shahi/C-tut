@@ -1,6 +1,6 @@
 //::c ka use krte hai scope resolution operator ka baat krne ke liye 
 //34.4f is float and 34.4 is double default and 34.4l is long double
-// sizeof()size pta karne ke liye kaam aata hai 
+// sizeof() size pta karne ke liye kaam aata hai 
 
 #include <iostream> 
 using namespace std ;
